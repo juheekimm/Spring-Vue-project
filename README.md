@@ -1,5 +1,5 @@
 # SafeFood
-spring, vue를 이용한 안전 먹거리 정보를 제공하는 
+spring, vue를 이용한 안전 먹거리 정보를 제공하는 웹사이트
 
 > Spring SafeFood 이상민 김주희 강민기
 
