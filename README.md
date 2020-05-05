@@ -1,73 +1,25 @@
-# SafeFood
-spring, vue를 이용한 안전 먹거리 정보를 제공하는 웹사이트
+# 안전 먹거리 정보 제공 서비스
 
-> Spring SafeFood 이상민 김주희 강민기
+<img src="img/plan1.png" width="90%" style="margin-top: 3%;">
 
+<img src="img/plan2.png" width="90%" style="margin-top: 3%;">
 
+<img src="img/plan3.png" width="90%" style="margin-top: 3%;">
 
-## 구현한 기능들
+<img src="img/service.png" width="90%" style="margin-top: 3%;">
 
-|분류 | 구현기능                                                     | 점수 | 비고                                                         |
-|---- | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ |
-|기본 | QnA 게시판 Vue를 적용한 웹페이지                             | 40   | 게시글 목록 - 10<br/>게시글 등록 - 10<br/>게시글 수정 - 10<br/>게시글상세 검색 - 10 |
-|기본 | 서버측 구현                                                  | 30   | 게시글 등록 - 10<br/>게시글 수정 - 5<br/>게시글 삭제 - 5<br/>게시글 상세검색 - 5<br/>게시글 목록 - 10 |
-|추가 | 식품별 검색 빈도수, 섭취식품 CRUD                           | 10   |                                                              |
-|심화 | 섭취식품 그래프화, 알레르기 성분 관리, 칼로리로 검색 시 그 칼로리와 가까운 조합 표시 | 15   |                                                              |
+<img src="img/arch1.png" width="90%" style="margin-top: 3%;">
 
+<img src="img/arch2.png" width="90%" style="margin-top: 3%;">
 
+<img src="img/arch3.png" width="90%" style="margin-top: 3%;">
 
----
+<img src="img/db.png" width="90%" style="margin-top: 3%;">
 
----
+<img src="img/algo.png" width="90%" style="margin-top: 3%;">
 
+<img src="img/quiz.png" width="90%" style="margin-top: 3%;">
 
+<img src="img/googletrend.png" width="90%" style="margin-top: 3%;">
 
-## 기본 기능
-
-### QnA 게시판 Vue를 적용한 웹페이지 + 서버측 구현
-
-| **게시글 목록**     | ![image-20191120174128041](README/image-20191120174128041.png) |
-| ------------------- | ------------------------------------------------------------ |
-| **게시글 등록**     | ![image-20191120174146201](README/image-20191120174146201.png) |
-| **게시글 삭제**     | ![image-20191121093811797](README/image-20191121093811797.png) |
-| **게시글 수정**     | ![image-20191120174248839](README/image-20191120174248839.png) |
-| **게시글상세 검색** | ![image-20191120174302129](README/image-20191120174302129.png) |
-
-
-
----
-
-
-
-## 추가 기능
-
-### 식품별 검색 빈도수
-
-![image-20191108151835725](README/image-20191108151835725.png)
-
-
-### 섭취식품 CRUD
-
-![image-20191108151835725](README/image-20191108151835725.png)
-
-
-
----
-
-
-
-## 심화 기능
-
-### 섭취식품 그래프화
-
-![image-20191108150612372](README/image-20191108150612372.png)
-
-
-### 알레르기 성분 관리
-
-![calory](README/alle.png)
-
-
-### 칼로리로 검색 시 그 칼로리와 가까운 조합 표시
-
-![calory](README/calory.png)
+<img src="img/func1.png" width="90%" style="margin-top: 3%;">
