@@ -1,5 +1,7 @@
 # 안전 먹거리 정보 제공 서비스
 
+<img src="img/video.gif" width="90%" style="margin-top: 3%;">
+
 <img src="img/plan1.png" width="90%" style="margin-top: 3%;">
 
 <img src="img/plan2.png" width="90%" style="margin-top: 3%;">
