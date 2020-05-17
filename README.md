@@ -9,7 +9,7 @@
 
 <img src="img/video.gif" width="80%" style="margin-top: 3%;">
 
-<hr width="70%"/>
+<hr/>
 
 ## 프로젝트 구조 설계
 
@@ -21,13 +21,13 @@
 
 <img src="img/db.png" width="70%" style="margin-top: 3%;">
 
-<hr width="70%"/>
+<hr/>
 
 ## 기능 소개
 
 <img src="img/service.png" width="70%" style="margin-top: 3%;">
 
-<hr width="70%"/>
+<hr/>
 
 ## 적용 패턴 및 핵심 알고리즘
 
@@ -39,7 +39,7 @@
 
 <img src="img/func1.png" width="70%" style="margin-top: 3%;">
 
-<hr width="70%"/>
+<hr/>
 
 ## 프로젝트 개요
 
